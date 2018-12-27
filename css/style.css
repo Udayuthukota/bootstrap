@@ -1,0 +1,62 @@
+
+
+#myHeader
+{
+    background-color: rgb(230, 134, 214);
+    text-align: center;
+
+}
+.jumbotron1
+{
+    background-color:rgb(219, 23, 144);
+}
+.ab{
+    padding-top: 8px;
+    text-decoration-color: black;
+}
+.cd
+{
+    text-decoration-color: black;
+    background-color: none;
+    text-decoration-color: black;
+}
+.header
+{
+    position: fixed;
+
+}
+#demo
+{
+    display: block;
+    border: solid brown;
+}
+#demo3
+{
+    display: block;
+    border: solid brown;
+}
+
+
+#demo1
+{
+    display: block;
+    background:  brown;
+}
+#footer-main
+{
+    background: #222;
+    color: white;
+    width: 100%;
+    font-size: 1rem;
+    padding: 1.5rem;
+
+}
+
+@media screen and (max-width: 500px) {
+
+.carousel
+{
+padding-top: 60px;
+}
+
+}
